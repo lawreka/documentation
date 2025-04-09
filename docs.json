@@ -53,7 +53,7 @@
             ]
           },
           {
-            "group": "AsyncAPI",
+            "group": "AsyncAPI Reference",
             "asyncapi": "api-reference/asyncapi.yml"
           }
         ]
