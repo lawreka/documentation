@@ -51,6 +51,10 @@
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
             ]
+          },
+          {
+            "group": "AsyncAPI",
+            "asyncapi": "api-reference/asyncapi.yml"
           }
         ]
       }
