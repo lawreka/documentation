@@ -53,8 +53,12 @@
             ]
           },
           {
-            "group": "AsyncAPI Reference",
+            "group": "Test Websockets",
             "asyncapi": "api-reference/asyncapi.yml"
+          },
+          {
+            "group": "Elevenlabs",
+            "asyncapi": "api-reference/elevenlabs.yml"
           }
         ]
       }
